@@ -1,8 +1,8 @@
 ## Olá, eu sou o Welinson ! 
 ### Bem vindo ao meu perfil GitHub 👋</br>
 Sou Apaixonado pela Tecnologia</br> 
-Estou Cursando "Analíse e Desenvolvimento de Software.
-Faculdade: Estacío
+Estou Cursando "Analíse e Desenvolvimento de Sistemas.</br>
+Faculdade: Estacío</br>
  🌱Atualmente estou nos cursos:</br>
  -DevClub</br>
  -Dio</br>
