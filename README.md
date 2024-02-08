@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia com foco em desenvolvimento front-end, buscando 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Light.svg" width="30px"/>
  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
 </div></br>
-### HTML / CSS /JAVA SCRIPT / NODE JS / REACT / ANGULAR /NEXT JS / TYPE SCRIPT / FIGMA / NETLIFY / GIT/ GIT HUB / POSTGRESS /DOCKER 
+### HTML / CSS /JAVA SCRIPT / NODE JS / REACT /REACT NATIVE / ANGULAR /NEXT JS / TYPE SCRIPT / FIGMA / NETLIFY / GIT/ GIT HUB / POSTGRESS /DOCKER /FIREBASE
  </br>
  📫Contato</br>
 Whatsapp: 34 99144-8794</br>
